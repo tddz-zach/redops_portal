@@ -1,0 +1,9 @@
+index.php
+admin
+login
+backup.zip
+.git
+.env
+config.php
+uploads
+robots.txt
